@@ -1,0 +1,22 @@
+# GUI requirements
+tkinter>=8.6  # Usually comes with Python, version depends on Python installation
+
+# File dialog and messagebox are part of tkinter, no separate install needed
+
+# Image processing and computer vision
+opencv-python>=4.9.0.80  # cv2
+numpy>=1.26.4
+
+# Deep learning
+tensorflow>=2.15.0  # Required for keras (load_model)
+keras>=3.0.0
+
+# Image handling for GUI
+Pillow>=10.2.0  # PIL
+
+# Threading and time are part of Python standard library, no install needed
+
+# Firebase requirements
+firebase-admin>=6.5.0
+
+# os is part of Python standard library, no install needed
